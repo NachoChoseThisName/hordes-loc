@@ -17,7 +17,11 @@ export default [
       hu: 'Égetett anyagokat bűvölve készítik a mágusok eme kisebb amuletteket. Nagy veszély idején nélkülözhetetlen túlélő eszközök.',
       vi: 'Các nguyên liệu bị đốt cháy đã được xoắn và gắn lại với nhau tạo thành một bùa hộ mệnh đơn giản. Chế tạo bùa hộ mệnh đơn giản như thế này là đã là một cách sinh tồn từ thời cổ đại.',
       cs: 'Ohořelé ingredience byly zkrouceny a smotány dohromady aby vytvořily amulet nuzné protekce. Vytvořit jednoduchý amulet jako je tento se považuje za běžnou taktiku pro přežití už od pradávna.',
-      it: 'Ingredienti bruciati sono stati attorcigliati e legati tra loro per formare un amuleto che dona una lieve protezione. Creare amuleti semplici come questo è sempre stata una pratica di sopravvivenza comune fin dai tempi antichi.'
+      it: 'Ingredienti bruciati sono stati attorcigliati e legati tra loro per formare un amuleto che dona una lieve protezione. Creare amuleti semplici come questo è sempre stata una pratica di sopravvivenza comune fin dai tempi antichi.',
+      id: 'Bahan-bahan terbakar diputar dan diikat untuk membentuk sebuah jimat dengan perlindungan yang minim. membikin jimat sederhana macam ini terdapat sebuah taktik menahan hidup umum dari zaman kuno.'
+
+
+
     }
   },
 
